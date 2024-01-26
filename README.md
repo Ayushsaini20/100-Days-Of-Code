@@ -38,7 +38,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 4. Stay consistent and celebrate small victories.
 
 ## Connect with Me
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ayush-saini-b23314237)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ayush-saini-b23314237/)
 
 Let's code together and make the next 100 days productive and exciting!
 
