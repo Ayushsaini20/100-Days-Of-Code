@@ -22,7 +22,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 11](#) - Pseudo-Palindromic Paths in a Binary Tree
 * [Day 12](#) - Longest Common Subsequence
 * [Day 13](#) - Out of Boundary Paths
-* [Day 14](#) -
+* [Day 14](#) - K Inverse Pairs  Array
 * [Day 15](#) -
 * [Day 16](#) -
 * [Day 17](#) -
