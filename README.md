@@ -28,7 +28,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 17](#) - Evaluate Reverse Polish Notation
 * [Day 18](#) - Daily Temperatures
 * [Day 19](#) - Divide Array Into Arrays With Max Difference
-* [Day 20](#) -
+* [Day 20](#) - Sequential Digits
 
 
 ## Tips
