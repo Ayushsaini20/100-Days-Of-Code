@@ -25,9 +25,9 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 14](#) - K Inverse Pairs  Array
 * [Day 15](#) - Number of Submatrices That Sum to Target
 * [Day 16](#) - Implement Queue using Stacks
-* [Day 17](#) -
-* [Day 18](#) -
-* [Day 19](#) -
+* [Day 17](#) - Evaluate Reverse Polish Notation
+* [Day 18](#) - Daily Temperatures
+* [Day 19](#) - Divide Array Into Arrays With Max Difference
 * [Day 20](#) -
 
 
