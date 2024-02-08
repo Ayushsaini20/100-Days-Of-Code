@@ -34,7 +34,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 23](#) - [First Unique Character in a String](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2023%20-First%20Unique%20Character%20in%20a%20String)
 * [Day 24](#) - [Group Anagrams](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2024-%20Group%20Anagrams%20) 
 * [Day 25](#) - [Sort Characters By Frequency](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2025%20-Sort%20Characters%20By%20Frequency)
-* [Day 26](#) - 
+* [Day 26](#) - [Perfect Square](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2026%20-%20Perfect%20Squares)
 
 
 ## Tips
