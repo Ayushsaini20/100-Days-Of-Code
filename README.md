@@ -37,7 +37,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 26](#) - [Perfect Square](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2026%20-%20Perfect%20Squares)
 * [Day 27](#) - [Largest Divisible Subset](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2027%20-%20Largest%20Divisible%20Subset)
 * [Day 28](#) - [Palindromic Substrings](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2028-%20Palindromic%20Substrings)
-* [Day 29](#) -
+* [Day 29](#) - [Cherry Pickup II](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2029-%20Cherry%20Pickup%20II)
 * [Day 30](#) -
 * [Day 31](#) -
 
