@@ -40,7 +40,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 29](#) - [Cherry Pickup II](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2029-%20Cherry%20Pickup%20II)
 * [Day 30](#) - [Majority Element](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2030%20-%20Majority%20Element)
 * [Day 31](#) - [Find First Palindromic String in the Array](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2031-%20Find%20First%20Palindromic%20String%20in%20the%20Array)
-* [Day 32](#) -
+* [Day 32](#) - [Rearrange Array Elements by Sign](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2032-%20Rearrange%20Array%20Elements%20by%20Sign)
 * [Day 33](#) -
 * [Day 34](#) -
 * [Day 35](#) -
