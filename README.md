@@ -42,8 +42,8 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 31](#) - [Find First Palindromic String in the Array](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2031-%20Find%20First%20Palindromic%20String%20in%20the%20Array)
 * [Day 32](#) - [Rearrange Array Elements by Sign](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2032-%20Rearrange%20Array%20Elements%20by%20Sign)
 * [Day 33](#) - [Find Polygon With the Largest Perimete](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2033-%20Find%20Polygon%20With%20the%20Largest%20Perimeter)
-* [Day 34](#) -
-* [Day 35](#) -
+* [Day 34](#) - [Least Number of Unique Integers after K Removals](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2034%20-Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals)
+* [Day 35](#) - [Furthest Building You Can Reach](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2035-%20Furthest%20Building%20You%20Can%20Reach)
 * [Day 36](#) -
 
 
