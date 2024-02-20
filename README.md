@@ -46,7 +46,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 35](#) - [Furthest Building You Can Reach](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2035-%20Furthest%20Building%20You%20Can%20Reach)
 * [Day 36](#) - [Meeting Rooms III](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2036-%20Meeting%20Rooms%20III)
 * [Day 37](#) - [Power of Two](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2037-%20Power%20of%20Two%20)
-* [Day 38](#) -
+* [Day 38](#) - [Missing Number](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2038-%20Missing%20Number)
 * [Day 39](#) -
 * [Day 40](#) -
 
