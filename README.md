@@ -50,7 +50,11 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 39](#) - [Bitwise AND of Numbers Range](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2039-%20Bitwise%20AND%20of%20Numbers%20Range)
 * [Day 40](#) - [Find the Town Judge](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2040-%20%20Find%20the%20Town%20Judge)
 * [Day 41](#) - [Cheapest Flights Within K Stops](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2041-%20Cheapest%20Flights%20Within%20K%20Stops)
-* [Day 42](#)
+* [Day 42](#) - [Find All People With Secret](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2042-%20Find%20All%20People%20With%20Secret)
+* [Day 43](#) - [Greatest comman factor](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2043-%20Greatest%20comman%20factor)
+* [Day 44](#) - [Same Tree](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2044-%20Same%20Tree)
+* [Day 45](#) - [Diameter of Binary Tree](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2045-%20Diameter%20of%20Binary%20Tree)
+* [Day 46](#) -
 
 
 ## Tips
