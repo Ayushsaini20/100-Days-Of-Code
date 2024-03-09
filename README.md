@@ -54,7 +54,19 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 43](#) - [Greatest comman factor](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2043-%20Greatest%20comman%20factor)
 * [Day 44](#) - [Same Tree](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2044-%20Same%20Tree)
 * [Day 45](#) - [Diameter of Binary Tree](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2045-%20Diameter%20of%20Binary%20Tree)
-* [Day 46](#) -
+* [Day 46](#) - [Find Bottom Left Tree Value](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2046-Find%20Bottom%20Left%20Tree%20Value)
+* [Day 47](#) - [Even Odd Tree](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2047-%20Even%20Odd%20Tree)
+* [Day 48](#) - [Maximum Odd Binary Number](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2048-%20Maximum%20Odd%20Binary%20Number)
+* [Day 49](#) - [Squares of a Sorted Array](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2049-%20Squares%20of%20a%20Sorted%20Array)
+* [Day 50](#) - [Remove Nth Node From End of List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2050-%20Remove%20Nth%20Node%20From%20End%20of%20List)
+* [Day 51](#) - [Bag of Tokens](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2051-%20Bag%20of%20Tokens)
+* [Day 52](#) - [Minimum Length of String After Deleting Similar Ends](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2052-%20Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends)
+* [Day 53](#) - [Linked List Cycle](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2053-%20Linked%20List%20Cycle)
+* [Day 54](#) - [Middle of the Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2054-%20Middle%20of%20the%20Linked%20List)
+* [Day 55](#) - [Count Elements With Maximum Frequency](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2055-%20Count%20Elements%20With%20Maximum%20Frequency)
+* [Day 56](#) - [Minimum Common Value](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2056-%20Minimum%20Common%20Value)
+* [Day 57](#) - 
+* [Day 58](#) -
 
 
 ## Tips
