@@ -65,8 +65,13 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 54](#) - [Middle of the Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2054-%20Middle%20of%20the%20Linked%20List)
 * [Day 55](#) - [Count Elements With Maximum Frequency](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2055-%20Count%20Elements%20With%20Maximum%20Frequency)
 * [Day 56](#) - [Minimum Common Value](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2056-%20Minimum%20Common%20Value)
-* [Day 57](#) - 
-* [Day 58](#) -
+* [Day 57](#) - [Custom Sort String](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2058-%20Custom%20Sort%20String)
+* [Day 58](#) - [Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2059-%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List)
+* [Day 59](#) -
+* [Day 60](#) -
+* [Day 61](#) -
+* [Day 62](#) -
+* [Day 63](#) -
 
 
 ## Tips
