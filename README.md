@@ -67,11 +67,17 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 56](#) - [Minimum Common Value](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2056-%20Minimum%20Common%20Value)
 * [Day 57](#) - [Custom Sort String](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2058-%20Custom%20Sort%20String)
 * [Day 58](#) - [Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2059-%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List)
-* [Day 59](#) -
-* [Day 60](#) -
-* [Day 61](#) -
-* [Day 62](#) -
-* [Day 63](#) -
+* [Day 59](#) -[Remove Zero Sum Consecutive Nodes from Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2059-%20Remove%20Zero%20Sum%20Consecutive%20Nodes%20from%20Linked%20List)
+* [Day 60](#) -[Find the Pivot Integer](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2060-%20%20Find%20the%20Pivot%20Integer)
+* [Day 61](#) -[Binary Subarrays With Sum](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2061-%20Binary%20Subarrays%20With%20Sum)
+* [Day 62](#) -[Product of Array Except Self](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2062-%20Product%20of%20Array%20Except%20Self)
+* [Day 63](#) -[Contiguous Array](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2063-%20Contiguous%20Array)
+* [Day 64](#) -[Insert Interval](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2064-%20Insert%20Interval)
+* [Day 65](#) -[Minimum Number of Arrows to Burst Balloons](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2065-%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
+* [Day 66](#) - [Task Scheduler](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2066-%20Task%20Scheduler)
+* [Day 67](#) -
+* [Day 68](#) -
+* [Day 69](#) -
 
 
 ## Tips
