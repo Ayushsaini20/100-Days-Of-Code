@@ -1,4 +1,5 @@
 ## Reverse LinkedList
+Given the head of a singly linked list, reverse the list, and return the reversed list.
 
 <img width="400" alt="image" src="https://github.com/Ayushsaini20/100-Days-Of-Code/assets/73630171/133746c5-08d1-4349-baff-f34618591eb2">
 
