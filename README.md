@@ -79,15 +79,15 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 68](#) - [Reverse Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2068-%20Reverse%20Linked%20List)
 * [Day 69](#) - [Palindrome Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2069-%20Palindrome%20Linked%20List)
 * [Day 70](#) - [Reorder List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2070-%20Reorder%20List)
-* [Day 71](#) -
-* [Day 72](#) -
-* [Day 73](#) -
-* [Day 74](#) -
-* [Day 75](#) -
-* [Day 76](#) -
-* [Day 77](#) -
-* [Day 78](#) -
-* [Day 79](#) -
+* [Day 71](#) - [Find the Duplicate Number](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2071-%20Find%20the%20Duplicate%20Number)
+* [Day 72](#) - [Find All Duplicates in an Array](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2072-%20Find%20All%20Duplicates%20in%20an%20Array)
+* [Day 73](#) - [First Missing Positive](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2073-%20First%20Missing%20Positive)
+* [Day 74](#) - [Subarray Product Less Than K](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2074-%20Subarray%20Product%20Less%20Than%20K)
+* [Day 75](#) - [Length of Longest Subarray With at Most K Frequency](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2075-%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency)
+* [Day 76](#) - [Count Subarrays Where Max Element Appears at Least K Times](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2076-%20Count%20Subarrays%20Where%20Max%20Element%20Appears%20at%20Least%20K%20Times)
+* [Day 77](#) - [Subarrays with K Different Integers](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2077-%20Subarrays%20with%20K%20Different%20Integers)
+* [Day 78](#) - [Count Subarrays With Fixed Bounds](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2078-%20Count%20Subarrays%20With%20Fixed%20Bounds)
+* [Day 79](#) - [Length of Last Word](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2079-%20Length%20of%20Last%20Word)
 * [Day 80](#) -
 
 
