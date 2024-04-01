@@ -75,9 +75,20 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 64](#) -[Insert Interval](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2064-%20Insert%20Interval)
 * [Day 65](#) -[Minimum Number of Arrows to Burst Balloons](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2065-%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)
 * [Day 66](#) - [Task Scheduler](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2066-%20Task%20Scheduler)
-* [Day 67](#) -
-* [Day 68](#) -
-* [Day 69](#) -
+* [Day 67](#) - [Merge In Between Linked Lists](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY-%2067%20Merge%20In%20Between%20Linked%20Lists)
+* [Day 68](#) - [Reverse Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2068-%20Reverse%20Linked%20List)
+* [Day 69](#) - [Palindrome Linked List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2069-%20Palindrome%20Linked%20List)
+* [Day 70](#) - [Reorder List](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2070-%20Reorder%20List)
+* [Day 71](#) -
+* [Day 72](#) -
+* [Day 73](#) -
+* [Day 74](#) -
+* [Day 75](#) -
+* [Day 76](#) -
+* [Day 77](#) -
+* [Day 78](#) -
+* [Day 79](#) -
+* [Day 80](#) -
 
 
 ## Tips
