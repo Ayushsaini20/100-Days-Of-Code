@@ -88,7 +88,27 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 77](#) - [Subarrays with K Different Integers](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2077-%20Subarrays%20with%20K%20Different%20Integers)
 * [Day 78](#) - [Count Subarrays With Fixed Bounds](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2078-%20Count%20Subarrays%20With%20Fixed%20Bounds)
 * [Day 79](#) - [Length of Last Word](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2079-%20Length%20of%20Last%20Word)
-* [Day 80](#) -
+* [Day 80](#) - [Isomorphic Strings](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2080-%20Isomorphic%20Strings)
+* [Day 81](#) - [Word Search](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2081-%20Word%20Search)
+* [Day 82](#) - [Maximum Nesting Depth of the Parentheses](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2082-%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
+* [Day 83](#) - [Make The String Great](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2083-%20Make%20The%20String%20Great)
+* [Day 84](#) - [Minimum Remove to Make Valid Parentheses](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2084-%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)
+* [Day 85](#) - [Valid Parenthesis String](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2085-%20Valid%20Parenthesis%20String)
+* [Day 86](#) - [Number of Students Unable to Eat Lunch](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2086%20-%20Number%20of%20Students%20Unable%20to%20Eat%20Lunch)
+* [Day 87](#) - [Time Needed to Buy Tickets](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2087-%20Time%20Needed%20to%20Buy%20Tickets)
+* [Day 88](#) - [Reveal Cards In Increasing Order](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2088-%20Reveal%20Cards%20In%20Increasing%20Order)
+* [Day 89](#) - [Remove K Digits](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2089-%20Remove%20K%20Digits)
+* [Day 90](#) - [Trapping Rain Water](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2090-%20Trapping%20Rain%20Water)
+* [Day 91](#) - [Maximal Rectangle](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2091-%20Maximal%20Rectangle)
+* [Day 92](#) - [Sum of Left Leaves](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2092-%20Sum%20of%20Left%20Leaves)
+* [Day 93](#) - 
+* [Day 94](#) -
+* [Day 95](#) -
+* [Day 96](#) -
+* [Day 97](#) -
+* [Day 98](#) -
+* [Day 99](#) -
+* [Day 100](#) -
 
 
 ## Tips
