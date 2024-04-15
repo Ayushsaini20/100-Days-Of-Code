@@ -101,7 +101,7 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 90](#) - [Trapping Rain Water](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2090-%20Trapping%20Rain%20Water)
 * [Day 91](#) - [Maximal Rectangle](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2091-%20Maximal%20Rectangle)
 * [Day 92](#) - [Sum of Left Leaves](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2092-%20Sum%20of%20Left%20Leaves)
-* [Day 93](#) - [Sum Root to Leaf Numbers]
+* [Day 93](#) - [Sum Root to Leaf Numbers](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2093-%20Sum%20Root%20to%20Leaf%20Numbers)
 * [Day 94](#) -
 * [Day 95](#) -
 * [Day 96](#) -
