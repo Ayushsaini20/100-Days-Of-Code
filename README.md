@@ -102,13 +102,13 @@ Welcome to the 100 Days of Code challenge! This repository documents my journey 
 * [Day 91](#) - [Maximal Rectangle](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2091-%20Maximal%20Rectangle)
 * [Day 92](#) - [Sum of Left Leaves](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2092-%20Sum%20of%20Left%20Leaves)
 * [Day 93](#) - [Sum Root to Leaf Numbers](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2093-%20Sum%20Root%20to%20Leaf%20Numbers)
-* [Day 94](#) -
-* [Day 95](#) -
-* [Day 96](#) -
-* [Day 97](#) -
-* [Day 98](#) -
-* [Day 99](#) -
-* [Day 100](#) -
+* [Day 94](#) - [Add One Row to Tree](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2094-%20Add%20One%20Row%20to%20Tree)
+* [Day 95](#) - [Smallest String Starting From Leaf](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2095-%20Smallest%20String%20Starting%20From%20Leaf)
+* [Day 96](#) - [Island Perimeter](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2096-%20Island%20Perimeter)
+* [Day 97](#) - [Number of Islands](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2097-%20Number%20of%20Islands)
+* [Day 98](#) - [Find All Groups of Farmland](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2098-%20Find%20All%20Groups%20of%20Farmland)
+* [Day 99](#) - [Find if Path Exists in Graph](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%2099-%20%20Find%20if%20Path%20Exists%20in%20Graph)
+* [Day 100](#) - [Open the Lock](https://github.com/Ayushsaini20/100-Days-Of-Code/tree/main/DAY%20100-%20Open%20the%20Lock)
 
 
 ## Tips
